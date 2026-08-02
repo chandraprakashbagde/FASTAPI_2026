@@ -82,6 +82,7 @@ htmlcov/
 # -----------------------------
 uploads/
 media/
+08_Form_handling/project_1/upload
 
 # -----------------------------
 # Static files generated at runtime (optional)
